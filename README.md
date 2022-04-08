@@ -18,7 +18,6 @@ $ npm install
 
 ```bash
 
-# production mode
 $ npm run start
 ```
 
